@@ -66,7 +66,7 @@ cat <<EOF > $OUTPUT_HTML
 <meta charset="UTF-8">
 <title>Valokuvagalleria - Linuxluola</title>
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="tyyli.css">
+<link rel="stylesheet" href="../tyyli.css">
 </head>
 <body>
 
