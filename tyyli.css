@@ -80,3 +80,6 @@ div.gallery-item div.desc {
 
 
 }
+@media screen and (max-width: 1080px) {
+    width: 100%;
+}
